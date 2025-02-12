@@ -1,8 +1,8 @@
 # SAP-1-Microcomputer-Design
- 1. Introduction
+ 1. Introduction \
 The SAP-1 (Simple as Possible) microcomputer is a foundational model for understanding basic computer architecture. This project implements a SAP-1 design in Logisim, a digital logic circuit simulation tool. The microcomputer supports five operations: LDA (Load Accumulator), ADD, SUB, OUT (Output), and HLT (Halt), demonstrating the core functionalities of a basic von Neumann architecture.
 
- 2. System Overview
+ 2. System Overview \
 The SAP-1 microcomputer consists of the following key components:
 - Program Counter (PC): Manages the sequencing of instructions by keeping track of the memory address being executed.
 - Memory Address Register (MAR): Temporarily stores the address of the instruction to be fetched from RAM.
