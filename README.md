@@ -14,3 +14,4 @@ The SAP-1 microcomputer consists of the following key components:
 - B Register: Temporarily holds data to be used in arithmetic operations.
 - Output Register: Displays results for the user.
 - Clock: Synchronizes the operations across components.
+<img width="724" alt="Screenshot 2024-11-18 at 12 43 11 PM" src="https://github.com/user-attachments/assets/699ff01c-73ab-4d4e-a0d8-135fea8b7ac3" />
