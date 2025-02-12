@@ -4,13 +4,13 @@ The SAP-1 (Simple as Possible) microcomputer is a foundational model for underst
 
  2. System Overview
 The SAP-1 microcomputer consists of the following key components:
-Program Counter (PC): Manages the sequencing of instructions by keeping track of the memory address being executed.
-Memory Address Register (MAR): Temporarily stores the address of the instruction to be fetched from RAM.
-Random Access Memory (RAM): Stores instructions and data for execution.
-Instruction Register (IR): Holds the current instruction fetched from memory.
-Controller/Sequencer: Generates control signals to coordinate the execution of instructions.
-Arithmetic Logic Unit (ALU): Performs arithmetic operations like addition and subtraction.
-Accumulator (ACC): Stores the result of ALU operations.
-B Register: Temporarily holds data to be used in arithmetic operations.
-Output Register: Displays results for the user.
-Clock: Synchronizes the operations across components.
+- Program Counter (PC): Manages the sequencing of instructions by keeping track of the memory address being executed.
+- Memory Address Register (MAR): Temporarily stores the address of the instruction to be fetched from RAM.
+- Random Access Memory (RAM): Stores instructions and data for execution.
+- Instruction Register (IR): Holds the current instruction fetched from memory.
+- Controller/Sequencer: Generates control signals to coordinate the execution of instructions.
+- Arithmetic Logic Unit (ALU): Performs arithmetic operations like addition and subtraction.
+- Accumulator (ACC): Stores the result of ALU operations.
+- B Register: Temporarily holds data to be used in arithmetic operations.
+- Output Register: Displays results for the user.
+- Clock: Synchronizes the operations across components.
